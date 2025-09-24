@@ -1,0 +1,27 @@
+C:\
+├─ Program Files\
+│  ├─ Common Files\
+│  ├─ WindowsApps\
+│  └─ <các thư mục phần mềm cài đặt>
+│
+├─ Program Files (x86)\        (dành cho ứng dụng 32-bit)
+│  └─ <các thư mục phần mềm cài đặt>
+│
+├─ Users\
+│  ├─ Public\
+│  └─ <Tên người dùng>\
+│      ├─ Desktop\
+│      ├─ Documents\
+│      ├─ Downloads\
+│      ├─ Music\
+│      ├─ Pictures\
+│      └─ Videos\
+│
+├─ Windows\
+│  ├─ System32\
+│  ├─ Fonts\
+│  └─ <các thư mục hệ thống khác>
+│
+├─ ProgramData\                (Dữ liệu dùng chung cho phần mềm)
+│
+└─ <các thư mục hoặc ổ đĩa khác do người dùng tạo>
