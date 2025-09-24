@@ -1,0 +1,17 @@
+Tạo và tổ chức thư mục:
+Tạo một thư mục gốc có tên là Projects trên Desktop.
+Trong thư mục Projects, tạo ba thư mục con với các tên: Images, Documents, Code.
+Trong mỗi thư mục con, tạo ít nhất ba tệp với các định dạng khác nhau (ví dụ: .txt, .docx, .jpg, .png, .cpp, .html, v.v.)
+Sao chép và di chuyển tệp:
+Sao chép một tệp từ thư mục Images sang thư mục Documents.
+Di chuyển một tệp từ thư mục Documents sang thư mục Code.
+Đảm bảo rằng các tệp được tổ chức khoa học, dễ tìm kiếm và không bị trùng lặp.
+Tìm và xóa tệp không cần thiết:
+Sử dụng chức năng tìm kiếm trong File Explorer để tìm các tệp có đuôi mở rộng .bak hoặc .log.
+Xóa các tệp không cần thiết này từ hệ thống, giúp giảm thiểu sự lộn xộn và tiết kiệm không gian lưu trữ.
+Tạo và sử dụng các liên kết (shortcuts):
+Tạo một shortcut cho thư mục Projects trên Desktop để dễ dàng truy cập.
+Tạo shortcut cho một tệp quan trọng trong thư mục Code và đặt nó trên thanh Taskbar.
+Dọn dẹp ổ đĩa:
+Sử dụng công cụ Disk Cleanup của Windows để quét và dọn dẹp các tệp tạm thời và các tệp hệ thống không cần thiết.
+Hãy chú ý đến các mục như "Temporary files", "System files", và "Recycle Bin".
