@@ -1,0 +1,7 @@
+Mở Task Manager và giám sát các ứng dụng đang chạy, mức sử dụng tài nguyên của hệ thống (CPU, RAM, ổ đĩa, mạng).
+Tìm kiếm và kết thúc các tiến trình chiếm dụng tài nguyên hệ thống không cần thiết.
+Yêu cầu:
+
+Mở Task Manager và kiểm tra các tab như Processes, Performance, và Startup.
+Kết thúc một tiến trình không cần thiết và theo dõi sự thay đổi hiệu suất hệ thống.
+Viết báo cáo ngắn gọn về cách sử dụng Task Manager để giám sát hiệu suất hệ thống và các tiến trình cần kết thúc.
