@@ -1,0 +1,11 @@
+Cài đặt phần mềm
+Tải file cài đặt .exe từ trang web chính thức.
+Nhấp đúp để cài đặt, chọn các bước mặc định và hoàn tất.
+Gỡ bỏ phần mềm bằng Apps & Features
+Mở Start → Settings → Apps → Apps & Features.
+Tìm phần mềm vừa cài → Nhấn Uninstall → Uninstall lần nữa để xác nhận.
+Chờ quá trình gỡ bỏ hoàn tất.
+Xóa dữ liệu còn sót lại (nếu có)
+Kiểm tra thư mục: C:\Program Files hoặc C:\ProgramData, xóa thư mục phần mềm còn lại.
+Xóa file tạm bằng Disk Cleanup hoặc Win + R → %temp% → xóa tất cả file trong thư mục tạm.
+Khởi động lại máy để hoàn tất.
