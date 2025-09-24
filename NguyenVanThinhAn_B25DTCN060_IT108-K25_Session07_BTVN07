@@ -1,0 +1,9 @@
+Thực hiện thao tác sao chép và di chuyển các tệp tin giữa các thư mục khác nhau
+Xóa tệp tin và dọn dẹp Recycle Bin để giải phóng bộ nhớ
+Yêu cầu:
+
+Tạo ít nhất 3 tệp tin với nội dung khác nhau.
+Sao chép tệp tin vào một thư mục khác và đảm bảo rằng bản sao vẫn tồn tại ở vị trí gốc.
+Di chuyển một tệp tin từ một thư mục này sang thư mục khác.
+Xóa một tệp tin và sau đó khôi phục từ Recycle Bin.
+Viết báo cáo về các bước thực hiện sao chép, di chuyển và xóa tệp tin, và lợi ích của việc tổ chức tệp tin gọn gàng.
