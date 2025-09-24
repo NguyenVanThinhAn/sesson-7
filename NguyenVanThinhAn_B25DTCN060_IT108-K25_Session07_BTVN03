@@ -1,0 +1,14 @@
+1. Tải phần mềm
+Mở trình duyệt và truy cập trang web chính thức của phần mềm, ví dụ Notepad++ hoặc VLC Media Player.
+Nhấn Download để tải file cài đặt .exe về máy, thường lưu ở thư mục Downloads.
+2. Cài đặt phần mềm
+Mở thư mục chứa file .exe, nhấp đúp chuột để chạy trình cài đặt.
+Chọn Yes nếu có thông báo xác nhận (UAC).
+Nhấn Next qua các bước và Install để hoàn tất.
+Sau khi cài xong, phần mềm sẽ xuất hiện trong Start Menu hoặc Desktop.
+3. Gỡ bỏ phần mềm
+Mở Settings → Apps → Apps & Features.
+Tìm phần mềm vừa cài, nhấn Uninstall, xác nhận gỡ bỏ.
+Chờ quá trình hoàn tất, phần mềm sẽ bị xóa khỏi hệ thống.
+Tóm tắt:
+Quy trình gồm 3 bước cơ bản: tải file cài đặt → cài đặt qua trình hướng dẫn → gỡ bỏ bằng Apps & Features. Đây là cách phổ biến để quản lý phần mềm trên Windows.
