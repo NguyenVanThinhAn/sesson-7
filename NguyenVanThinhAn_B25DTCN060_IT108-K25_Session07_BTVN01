@@ -1,0 +1,15 @@
+Quản lý bộ nhớ:
+Điều phối việc cấp phát và thu hồi RAM, sử dụng bộ nhớ ảo và paging để chạy nhiều chương trình cùng lúc.
+Ví dụ: Khi mở nhiều tab trình duyệt, tab ít dùng sẽ bị swap ra ổ đĩa để giải phóng RAM.
+Quản lý tiến trình:
+Tạo, hủy, và sắp xếp thứ tự CPU cho các tiến trình thông qua scheduler và context switch.
+Ví dụ: Task Manager phân chia CPU giữa game, trình duyệt và ứng dụng chạy nền.
+Quản lý thiết bị I/O:
+Dùng driver và cơ chế như DMA, spooling để giao tiếp phần cứng – ngoại vi.
+Ví dụ: Khi cắm USB, hệ điều hành tự nhận diện và mount thiết bị để sử dụng ngay.
+Quản lý hệ thống tệp:
+Tổ chức dữ liệu theo file, thư mục, đảm bảo truy xuất, bảo vệ và khôi phục dữ liệu khi có sự cố.
+Ví dụ: ext4 hoặc NTFS dùng journaling để tránh hỏng file khi mất điện.
+Cung cấp giao diện người dùng:
+Cho phép người dùng tương tác với máy tính qua CLI (dòng lệnh) hoặc GUI (giao diện đồ họa).
+Ví dụ: Windows cung cấp desktop, thanh taskbar và Command Prompt để nhập lệnh.
